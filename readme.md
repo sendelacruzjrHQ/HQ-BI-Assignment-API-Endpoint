@@ -39,7 +39,7 @@ Steps :<br>
 5. Install ODBC driver for SQL Server (msi file)<br>
 6. Copy offer folder to C:\inetpub\wwwroot<br>
 7. Change the value of variable $svr(on php file) with the servername where database is created <br>
-7. Browse localhost and test ex. http://localhost/offer/best-deal.php?hotelId=71&checkinDate=2015-10-16&checkoutDate=2015-10-17<br>
+8. Browse localhost and test ex. http://localhost/offer/best-deal.php?hotelId=71&checkinDate=2015-10-16&checkoutDate=2015-10-17<br>
 
 *** Any issue please send email to sendelacruzjr@gmail.com
 
