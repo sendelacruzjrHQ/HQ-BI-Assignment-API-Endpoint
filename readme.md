@@ -30,7 +30,8 @@ JSON output which your new endpoint should return:<br>
 }<br>
 
 Steps :<br>
-1. Setup PHP, extract file php-5.6.18-nts-Win32-VC11-x86.zip<br>
+1. Download and setup PHP package version 5.6 from the link below: <br>
+http://windows.php.net/download/ <br>
 2. Create a handler mapping for PHP(please refer to attached word document)<br>
 3. Install PHP Manager for IIS (msi file)<br>
 4. Add and enable SQL drivers for PHP via IIS==>PHP Manager==>PHP Extensions==>Add then Enable<br>
@@ -39,7 +40,8 @@ Steps :<br>
 5. Install ODBC driver for SQL Server (msi file)<br>
 6. Copy offer folder to C:\inetpub\wwwroot<br>
 7. Change the value of variable $svr(on php file) with the servername where database is created <br>
-8. Browse localhost and test ex. http://localhost/offer/best-deal.php?hotelId=71&checkinDate=2015-10-16&checkoutDate=2015-10-17<br>
+8. Browse localhost and test <br>
+ex. http://localhost/offer/best-deal.php?hotelId=71&checkinDate=2015-10-16&checkoutDate=2015-10-17<br>
 
 *** Any issue please send email to sendelacruzjr@gmail.com
 
