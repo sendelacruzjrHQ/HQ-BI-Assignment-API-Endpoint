@@ -4,9 +4,9 @@ BI Assignment - 3.0 API endpoint
 
 Language used : PHP<br>
 Objectives :	
-***The endpoint should expose some of the data from the newly created table valid_offers based on the request parameters.<br> 
-***It should return a JSON response with the best deal (discount) for the hotel/checkin/checkout parameters.<br> 
-***In other words - this API endpoint should return the offer with the best discount.<br>
+-The endpoint should expose some of the data from the newly created table valid_offers based on the request parameters.<br> 
+-It should return a JSON response with the best deal (discount) for the hotel/checkin/checkout parameters.<br> 
+-In other words - this API endpoint should return the offer with the best discount.<br>
 
 Request GET parameters:<br>
 
